@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "img2sheet", "img2sheet\img2sheet.csproj", "{D2E5865A-3ECD-4E89-86C7-51B8098C4D19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2E5865A-3ECD-4E89-86C7-51B8098C4D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E5865A-3ECD-4E89-86C7-51B8098C4D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E5865A-3ECD-4E89-86C7-51B8098C4D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E5865A-3ECD-4E89-86C7-51B8098C4D19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50BFAE36-D2F9-4C0A-AF0D-4CB6A23C0383}
+	EndGlobalSection
+EndGlobal
